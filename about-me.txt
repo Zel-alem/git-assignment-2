@@ -8,3 +8,4 @@ I love to play football.
 
 2ND
 I'm Abrham, a passionate developer and tech enthusiast with hands-on experience in web development, app creation, and automation. I work with technologies like React, Vite, Flutter, Firebase, and PHP to build smart, user-friendly digital solutions. From custom interfaces to dynamic tools, I enjoy solving problems and turning ideas into functional tech—always aiming to create clean, efficient, and scalable systems.
+ I am kdus alie Excited to start this GitHub journey with my friends! Let's build and learn together. 
